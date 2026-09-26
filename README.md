@@ -1,4 +1,4 @@
-<div align="center"> <a href="https://github.com/sazzad-hossen9"> <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Sazzad+Hossen;Frontend+Developer" alt="Typing SVG" /> </a> </div>
+<div align="center"> <a href="https://github.com/sazzad-hossen9"> <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=900&size=40&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Sazzad+Hossen;Frontend+Developer" alt="Typing SVG" /> </a> </div>
 
 <h3 align="center">Frontend Developer • Bangladesh 🇧🇩</h3>
 
