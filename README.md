@@ -1,7 +1,10 @@
-<h1 align="center">Hi, I'm Sazzad Hossen 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:16a34a&height=200&section=header&text=Sazzad%20Hossen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=20" width="100%"/>
+</p>
+
+<h3 align="center">Frontend Developer • Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <b>Frontend Developer</b> • Bangladesh 🇧🇩<br/>
   I build fast, responsive and clean user interfaces with React, Next.js and Tailwind CSS.
 </p>
 
@@ -14,15 +17,16 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 Frontend developer focused on modern, responsive web apps
-- 📚 Always learning and sharing what I learn with others
+I'm a frontend developer focused on building modern, responsive web interfaces. I enjoy turning designs into clean, working code and I'm always learning new tools to write better frontend code.
+
+- 🔭 Currently working on: a tourism website project
+- 🌱 Currently exploring: **Next.js** and **TypeScript**
 - 🎨 I like turning Figma designs into pixel-perfect code
-- ⚡ Currently improving my skills in **Next.js** and **TypeScript**
 - 💬 Ask me about: HTML, CSS, JavaScript, React, Tailwind
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <table align="center">
   <tr>
@@ -47,11 +51,11 @@
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sazzad-hossen9&theme=tokyonight&hide_border=true" />
 </p>
+
+> Contribution & top-languages cards are temporarily left out — GitHub's public stats service (github-readme-stats.vercel.app) is currently overloaded and often fails to load. They can be added back once self-hosted or when the service stabilizes.
 
 ---
 
@@ -71,7 +75,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sazzadhossen-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sazzad96741236@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@codewebbd"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <p align="center">⭐ If you like my work, consider giving a star to my repos!</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:2563eb&height=100&section=footer" width="100%"/>
