@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:16a34a&height=200&section=header&text=Sazzad%20Hossen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=20" width="100%"/>
-</p>
+<div align="center"> <a href="https://github.com/sazzad-hossen9"> <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=40&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Sazzad+Hossen;Frontend+Developer" alt="Typing SVG" /> </a>
 
 <h3 align="center">Frontend Developer • Bangladesh 🇧🇩</h3>
 
