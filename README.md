@@ -63,8 +63,8 @@ I'm a frontend developer focused on building modern, responsive web interfaces. 
 |---|---|---|
 | [**Project Name 1**](https://github.com/sazzad-hossen9/assignment-5) | Short one-line description | React, Tailwind |
 | [**Project Name 2**](https://github.com/YOUR_GITHUB_USERNAME/repo-2) | Short one-line description | Next.js, TypeScript |
-| [**Project Name 3**](https://github.com/YOUR_GITHUB_USERNAME/repo-3) | Short one-line description | HTML, CSS, JS |
-| [**Project Name 4**](https://github.com/sazzad-hossen9/Hockey-s-esponsive-web) | Short one-line description | HTML, CSS |
+| [**Project Name 3**]([https://github.com/YOUR_GITHUB_USERNAME/repo-3](https://github.com/sazzad-hossen9/snpick)) | Short one-line description | HTML, CSS, JS |
+
 
 ---
 
